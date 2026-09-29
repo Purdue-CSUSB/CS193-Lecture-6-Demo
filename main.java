@@ -1,6 +1,6 @@
 public class main {
     public static void main(String args[]) {
-        System.out.println("This is Ryan at 6:58 pm on Monday!");
-        System.out.println("This is Deji!");
+        System.out.println("This is Zane at 1:05 on Tuesday!");
+
     }
 }
